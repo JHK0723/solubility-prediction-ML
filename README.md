@@ -17,6 +17,8 @@ Evaluation metrics used include MAE (Mean Absolute Error), RMSE (Root Mean Squar
 
 Visualizations:
 - Linear Regression: Actual vs Predicted (TEST)
+  ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/f0d532d40e5c62918d467b45854b6c2360d06c65/LRimage.png)
+
 - SHAP (SHapley Additive exPlanations) summary plot showing feature importance for the Random Forest model.
 
 How to use:

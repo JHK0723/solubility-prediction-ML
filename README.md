@@ -22,6 +22,16 @@ Visualizations:
 
 - SHAP (SHapley Additive exPlanations) summary plot showing feature importance for the Random Forest model.
 
+  ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/acb71e240c40e865a9c89bd2f0400ef247dfb450/SHAP.png)
+  
+- Random Forest: Actual vs Predicted (TEST)
+
+  ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/acb71e240c40e865a9c89bd2f0400ef247dfb450/RFimage.png)
+  
+- KNN: Actual vs Predicted (TEST)
+
+  ![My plot](https://github.com/JHK0723/solubility-prediction-ML/blob/acb71e240c40e865a9c89bd2f0400ef247dfb450/KNNimage.png)
+  
 How to use:
 1. Clone this repository:  
    `git clone https://github.com/yourusername/yourrepo.git`  

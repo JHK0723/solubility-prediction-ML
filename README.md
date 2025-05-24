@@ -10,7 +10,8 @@ Models implemented:
 - Manual K-Nearest Neighbors (KNN): A distance-based algorithm implemented from scratch to demonstrate fundamental machine learning principles.
 
 Dataset:
-- Source: Delaney solubility dataset with molecular descriptors  
+- Source: Delaney solubility dataset with molecular descriptors [Delaney Solubility Dataset CSV](https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney_solubility_with_descriptors.csv)
+
 - Format: CSV file containing molecular features and the target variable `logS` (logarithm of solubility)
 
 Evaluation metrics used include MAE (Mean Absolute Error), RMSE (Root Mean Squared Error), and MAPE (Mean Absolute Percentage Error) on both training and testing sets.
